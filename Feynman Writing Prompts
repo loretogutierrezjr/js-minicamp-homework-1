@@ -1,0 +1,5 @@
+> Variables - holds a certain type of value either integer, strings or boolean in the javascript program.
+> Strings - this are the values which enclosed in double quotes upon declaration in variables.
+> Functions (arguments, return) - block of codes that can be called anytime in the javascript program [re-usable block of codes]. 
+> if statements - conditional statement that evaluates the condition that proceeds to return either true or false.
+> Boolean values (true, false) - this are the values that used in conditional statemet to give an output either true or false.
